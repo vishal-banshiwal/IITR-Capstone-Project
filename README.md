@@ -42,7 +42,6 @@ It contains features such as:
 3. **Modeling**
    - Baseline models: Linear Regression, SVM, Random Forest
    - Advanced Model: Neural Network (Keras Sequential)
-   - Hyperparameter tuning with **Keras Tuner**
 
 4. **Evaluation**
    - MAE, MSE, RMSE, R² Score
@@ -67,14 +66,8 @@ It contains features such as:
 ## 🧠 Key Concepts Used
 
 - Neural Networks with Keras
-- Dropout regularization
 - Adam optimizer
 - Mean Squared Error (MSE) loss
-- Keras Tuner (Hyperband) for tuning:
-  - Units in layers
-  - Activation functions (`relu`, `tanh`, `elu`)
-  - Dropout rate
-  - Learning rate
 
 ---
 
@@ -86,6 +79,12 @@ It contains features such as:
 - Boxplots to detect outliers
 
 ---
+
+## ✅ Future Work
+
+- Improve data balance using advanced sampling (SMOGN, KDE).
+- Try ensemble models (XGBoost, RandomForestRegressor).
+- Convert the regression model into a classification model for thresholds like Low/Moderate/High addiction.
 
 ## 🧪 Requirements
 
