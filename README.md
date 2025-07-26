@@ -17,6 +17,7 @@ Smartphone addiction is a growing concern, especially among teens. The objective
 ## 📂 Dataset
 
 The dataset is sourced from Kaggle:  https://www.kaggle.com/datasets/khushikyad001/teen-phone-addiction-and-lifestyle-survey/data
+
 **Teen Phone Addiction and Lifestyle Survey**  
 It contains features such as:
 
